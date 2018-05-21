@@ -2,7 +2,7 @@
 
 MovieCatalog
 
-Sourcecodes for my first project, movie catalog. Simple program made with C# to store your movie collection.
+Source codes for my first project, movie catalog. Simple program made with C# to store your movie collection.
 
 I have converted the variables etc. in english, but unfortunately I wasn't able to convert the names of executable files properly, so those are in finnish. UI and the codebehind is in english though.
 
